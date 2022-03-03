@@ -55,5 +55,4 @@ except ZeroDivisionError:
 
 主动异常:raise,assert
 
-**[返回目录](https://github.com/3114aaa/Python-directory)
-[下一章](https://github.com/3114aaa/Python-3)**
+**[返回目录](https://github.com/3114aaa/Python-directory)**
